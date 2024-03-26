@@ -19,10 +19,9 @@ choco install git -y
 ```
 
 拉取项目至 ```desktop```目录。(当然这里可以更改)：
-
-sudo -i
+```
 cd /desktop && git clone https://github.com/TeamPGM/PagerMaid-Pyro.git pgp && cd pgp
-
+```
 
 随后使用choco安装python3
  打开 cmd 窗口（以管理员身份运行），然后执行以下命令：
